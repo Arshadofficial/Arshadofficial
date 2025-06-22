@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next js , Angular js ,React Native**
 
-- 👨‍💻 All of my projects are available at [https://arshadofficial.github.io/portfolio-linked-in-/](https://arshadofficial.github.io/portfolio-linked-in-/)
+- 👨‍💻 All of my projects are available at [https://arshathdevl.vercel.app/)
 
 - 💬 Ask me about **MERN,Javascript**
 
